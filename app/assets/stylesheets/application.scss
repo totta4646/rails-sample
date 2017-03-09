@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+@import "devise_bootstrap_views";
+@import "bootstrap-sprockets";
+@import "bootstrap";
